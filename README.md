@@ -1,1 +1,1 @@
-# huffman-coding-
+# Huffman.github.io
